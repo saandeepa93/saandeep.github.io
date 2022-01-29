@@ -8,25 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Postdoctoral Research Fellow in the
-[Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
-and [Department of Political Science](https://polisci.wustl.edu/) at
-[Washington University in St. Louis](https://wustl.edu/). I am also an
-affiliated researcher with the
-[Data-driven Analysis of Peace Project](https://dapp-lab.org) lab. I specialize
-in International Relations and Political Methodology. I earned my Ph.D in
-Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu/) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
+Hello there! I am a first year doctoral student at the Affective Computing Lab at the University of South Florida
+under the supervision of [Prof. Shaun Canavan](https://www.csee.usf.edu/~scanavan/). I specialize
+in Affective Computing, which is a branch in Computer Science that deals with developing tools to perform human behaviour analysis. I am currently pursuing my Masters + PhD in
+Computer Science from the
+[University *of* South Florida](https://www.usf.edu/) and I received my
+B.E. in Computer Science and Engineering from [Visveraya Technological University](https://vtu.ac.in/).
 
-My work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. My [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While I primarily
-focus on civil conflict, I also examine contentious political phenomena
-including terrorism and economic statecraft, and develop new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both international relations and quantitative methodology, and am a certified
-instructor with [The Carpentries](https://carpentries.org/).
+ My research interests include:
+  * **Affective Computing**: Analysing affective components in humans which includes emotions, expressions, action units using various modalities.
+  * **Computer Vision/Representation Learning**: Utilizing the capabilites of flow-based models to explore the latent space of the affective components.
+  * **Biometrics**: Continuous authentication and facial recognition of mobile users.
+

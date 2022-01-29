@@ -7,27 +7,22 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My research falls into two main areas: understanding the influence of geography
-on actor behavior before, during, and after civil conflict, and developing new
-tools to improve the study of institutions (both formal and informal) in peace
-and conflict. One strand of research in this first area explores how the
-territories that ethnic groups inhabit shape rebel group formation and condition
-their relationship with the state. My interest in geography also informs
-projects on active conflicts including the targeting of UN peacekeepers by
-insurgent groups, civilian victimization after rebel territorial conquest, and
-communal violence in fragile settings.
+My philosphy of research in deep learning (and sometimes ML) is to reduce/remove its black box nature.
+The output of my research work has potential applications in Healthcare and Biometrics. Therefore, 
+the need for explainability is of paramount importance.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+# **Affective Computing**
+Considering this, my PhD thesis is two-fold: Modelling the complex affect data by combining representation learning
+techniques and Flow-based generative models, and developing new methods to predict/classify 
+different affective components. Currently, the existing work is limited to structured modalities like images but I intend to extend it to unstructured data like continuous signals and tabular data.
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+# **Healthcare**
+I am also working on a collaborative project with the Social Behaviour department at USF to develop techniques for automatic recognition of PTSD in children. This study include using computer vision tools such as [Openface](https://github.com/TadasBaltrusaitis/OpenFace) to analyze videos of participants with potential trauma interacting with a psychiatrist and develop an algorithm to succesfully predict PTSD. The primary work is to explain why the ML/DL model thinks a participant does or does not have PTSD.
+
+# **Biometrics**
+A new venue in my research includes a collaborative work under NSF wherein *continuous authentication (CA)* on mobile devices using unstructured modalities like physiological signals, EEG etc. Plenty of importance is given to practical implementation of CA considering the ethical aspects of the data being collected. 
+
+
 
 <nbsp>
 
@@ -35,6 +30,6 @@ into the early stages of radicalization.
 
 {% assign ordered_pages = site.research | sort:"order_number" %}
 
-{% for post in ordered_pages %}
+<!-- {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
-{% endfor %}
+{% endfor %} -->
