@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! I am a first year doctoral student at the Affective Computing Lab at the University of South Florida
+Hello there! I am a second year doctoral student at the Affective Computing Lab at the University of South Florida
 under the supervision of [Prof. Shaun Canavan](https://www.csee.usf.edu/~scanavan/). I specialize
 in Affective Computing, which is a branch in Computer Science that deals with developing tools to perform human behaviour analysis. I am currently pursuing my Masters + PhD in
 Computer Science from the
