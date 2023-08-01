@@ -28,7 +28,8 @@ B.E. in Computer Science and Engineering from [Visveraya Technological Universit
   * [2023] Paper accepted at [IJCB](https://ijcb2023.ieee-biometrics.org/) 2023.
   * [2023] Awarded best doctoral presentation award at [FG 2023 DC](https://fg2023.ieee-biometrics.org/participate/doctoral-consortium).
   * [2023] Served as a reviewer at ACII 2023.
+  * [2022] Moved to candidacy by successfully proposing my major area.
   * [2022] Served as a reviewer at ICPR 2022.
   * [2021] Won the best paper award at ACII 2021.
 
-
+</details>
