@@ -20,3 +20,13 @@ B.E. in Computer Science and Engineering from [Visveraya Technological Universit
   * **Computer Vision/Representation Learning**: Utilizing the capabilites of flow-based models to explore the latent space of the affective components.
   * **Biometrics**: Continuous authentication and facial recognition of mobile users.
 
+
+## **News**
+<details>
+<summary>Click to Expand</summary>
+
+  * Paper accepted at IJCB 2023
+  * Awarded best doctoral presentation award at FG 2023 DC
+  * Served as a reviewer for ICPR 2022
+
+
