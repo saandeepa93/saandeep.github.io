@@ -41,6 +41,8 @@ B.E. in Computer Science and Engineering from [Visveraya Technological Universit
 
 -[May 2024] Served as a reviewer for [NeurIPS 2024](https://neurips.cc/).
 
+-[Jan 2024] Presented my research on OOD detection for [AI+X](files/pdf/AI_X_2.pdf).
+
 -[May 2023] Paper accepted at [IJCB 2023](https://ijcb2023.ieee-biometrics.org/) .
 
 -[Jan 2023] Awarded best doctoral presentation.
@@ -49,7 +51,7 @@ B.E. in Computer Science and Engineering from [Visveraya Technological Universit
 
 -[May 2022] Obtained masters degree with 3.8 GPA.
 
--[May 2022] Moved to candidacy by successfully proposing my major area. [PPT](/files/pdf/research/Major_area.pdf).
+-[May 2022] Moved to candidacy by successfully proposing my major area. [PPT](/files/pdf/major_area_v1.0_CanavanEdits.pdf).
 
 -[Feb 2022] Served as a reviewer at [ICPR 2022](https://iapr.org/archives/icpr2022/index.html).
 
