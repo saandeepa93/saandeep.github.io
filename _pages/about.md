@@ -34,19 +34,25 @@ B.E. in Computer Science and Engineering from [Visveraya Technological Universit
 
 </details> -->
 
-## **News**
-<details>
-  <summary>Click me</summary>
-  
-  
-  * [2024] Paper accepted at [ECCV 2024](https://eccv.ecva.net/)
-  * [2024] Served as a reviewer for [NeurIPS 2024](https://neurips.cc/)
-  * [2023] Paper accepted at [IJCB 2023](https://ijcb2023.ieee-biometrics.org/) 
-  * [2023] Awarded best doctoral presentation 
-  * [2023] Served as a reviewer at [ACII 2023](https://acii-conf.net/2023/)
-  * [2022] Obtained masters degree with 3.8 GPA.
-  * [2022] Moved to candidacy by successfully proposing my major area. [PPT](/files/pdf/research/Major_area.pdf)
-  * [2022] Served as a reviewer at [ICPR 2022](https://iapr.org/archives/icpr2022/index.html)
-  * [2021] Won the best paper award at [ACII 2021](https://www.acii-conf.net/2021/)
 
-</details>
+
+## News
+-[June 2024] Paper accepted at [ECCV 2024](https://eccv.ecva.net/).
+
+-[May 2024] Served as a reviewer for [NeurIPS 2024](https://neurips.cc/).
+
+-[May 2023] Paper accepted at [IJCB 2023](https://ijcb2023.ieee-biometrics.org/) .
+
+-[Jan 2023] Awarded best doctoral presentation.
+
+-[2023] Served as a reviewer at [ACII 2023](https://acii-conf.net/2023/).
+
+-[May 2022] Obtained masters degree with 3.8 GPA.
+
+-[May 2022] Moved to candidacy by successfully proposing my major area. [PPT](/files/pdf/research/Major_area.pdf).
+
+-[Feb 2022] Served as a reviewer at [ICPR 2022](https://iapr.org/archives/icpr2022/index.html).
+
+-[Sept 2021] Won the best paper award at [ACII 2021](https://www.acii-conf.net/2021/).
+
+
